@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859548962304",
+    "firebase_url": "https://dettov1.firebaseio.com",
+    "project_id": "dettov1",
+    "storage_bucket": "dettov1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859548962304:android:560a0961b5446dac",
+        "android_client_info": {
+          "package_name": "com.detto.dettov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859548962304-bcqks4f4ri8k8ot0pr268plnrv4pau1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.detto.dettov1",
+            "certificate_hash": "4c24dfd0a43c79c71783d8a44c20f447cf588def"
+          }
+        },
+        {
+          "client_id": "859548962304-fqhi2scuigd92tbrt6eiblape5ob404j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHj_UqJUmjJXURNLIIA_4veH8BbAB2wtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859548962304-fqhi2scuigd92tbrt6eiblape5ob404j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
